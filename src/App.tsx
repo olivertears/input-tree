@@ -1,7 +1,7 @@
-import React from 'react';
+import { Tree } from './components/tree';
 
 function App() {
-  return <div>Hello World!</div>;
+  return <Tree />;
 }
 
 export default App;
